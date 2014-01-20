@@ -1,0 +1,29 @@
+/* CSS Document */
+
+/*
+
+selector {
+    property: value;
+    property: value;
+    property: value
+}
+
+Each selector is paired with and styles an element. For example: 
+
+html {} is paired with and styles <html> 
+
+*/
+
+html {
+    font-family: Arial, Helvetica, sans-serif;   
+}     
+
+body {
+    background-color: #CCC;
+    
+}
+
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font size: 3rem;
+}
